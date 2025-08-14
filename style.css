@@ -1,0 +1,144 @@
+body{
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color: rgb(0, 0, 0);
+    font-size: x-large;
+}
+#h12{
+    color: rgb(0, 0, 0);
+    text-transform: capitalize;
+    font-size:xx-large;
+
+}
+.centerImage{
+    margin-left:auto;
+    margin-right:auto;
+    justify-content: center;
+    width: 400px;
+  
+
+
+}
+.centerImage:hover{
+    border-radius: 50px;
+    transition: 0.5s ease-in;
+    transform: scale(1.3);
+    
+}
+#h23{
+    text-align: center;
+    color:black;
+}
+#body2{
+    background:white;
+}
+#trust{
+    color:rgb(0, 0, 0);
+    text-align: center;
+    text-transform: capitalize;
+}
+#homepg{
+    color:palevioletred ;
+    text-align: center;
+    text-emphasis:initial;
+    font-style: oblique;
+}
+#h25{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    justify-content: center;
+    margin:auto;
+
+}
+#h26{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#btn1:hover{
+    background: palevioletred(51, 53, 53);
+    border-radius: 20px;
+    color: #000000;
+    width:80px;
+    transition: 0.5s ease-in-out;
+    transform:scaleX(1.3,);
+    text-shadow:rgb(211, 39, 96) 2px 2px 3px;
+    
+}
+#btn1{
+    background-color:palevioletred;
+    border-radius: 15px;
+}
+#btn2:hover{
+    background: palevioletred;
+    color:rgb(0, 0, 0);
+    border-radius: 20px;
+    width:90px;
+    transition: 0.5s ease-in-out;
+    transform:scaleX(1.3,);
+    text-shadow:rgb(218, 38, 98) 2px 2px 3px;
+}
+#btn2{
+    background-color: palevioletred;
+    border-radius: 15px;
+}
+#btn3:hover{
+    background: rgb(51, 53, 53);
+    color: #555353;
+    font-size: medium;
+    font-style: oblique;
+}
+#btn3{
+    background-color:palevioletred;
+    border-radius: 10px;
+}
+.freedomimg{
+    margin-left: auto;
+    margin-right: auto;
+}
+.freedomimg:hover{
+    border-radius: 50px;
+    transition: 0.5s ease-in;
+    transform: scale(1.3);
+    
+}
+#h124{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: x-large;
+}
+#btn4:hover{
+    background: palevioletred;
+    color:rgb(0, 0, 0);
+    border-radius: 20px;
+    width:110px;
+    transition: 0.5s ease-in-out;
+    transform:scaleX(1.3,);
+    text-shadow:rgb(218, 38, 98) 2px 2px 3px;
+}
+#btn4{
+    background-color:palevioletred;
+    border-radius: 15px;
+
+}
+#h27{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#trustimg{
+    margin-left: auto;
+    margin-right:auto;
+    justify-content: center;
+    width: 400px;
+  
+}
+#trustimg:hover{
+    border-radius: 50px;
+    transition: 0.5s ease-in;
+    transform: scale(1.3);
+    
+}
